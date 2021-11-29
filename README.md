@@ -1,3 +1,3 @@
 # testmd
 we test the href of md
-lianjie
+[链接](new.md)
